@@ -2,7 +2,7 @@
 
 Api feita em typescript, usando o gerenciador de pacotes pnpm, banco de dados mysql e para manipular o banco de dados foi escolhido o typeorm.
 
-## Foram utilizada as seguintes versões##
+## Foram utilizada as seguintes versões
 
 pnpm versão: 7.1.2
 
